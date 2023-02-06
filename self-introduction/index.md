@@ -1,4 +1,4 @@
-https://youtu.be/n_iRm-Sq92E
+[https://youtu.be/n_iRm-Sq92E](https://youtu.be/n_iRm-Sq92E)
 
 Hello. My name is Nataliia. I am from Ukraine, but now I live in Poland. I am a junior front-end developer. And now about who I am and how I got into programming.
 I graduated the National University of Railway Transport with a master's degree in "Management of the transportation process", and the International University of Finance with a specialist degree in Finance. Before I decided to change my profession to a front-end developer, I worked as an engineer for the organization and regulation of labor in a railway company. I have been in this position for the past 15 years.
